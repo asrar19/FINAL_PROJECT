@@ -1,2 +1,3 @@
-# FINAL_PROJECT
+# ALPHA_DC
+
 This is the Capstone project 
